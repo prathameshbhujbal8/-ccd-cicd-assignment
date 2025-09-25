@@ -11,4 +11,4 @@ def main():
 if __name__ == "__main__":
     main()
 # Adding a comment to trigger the CI/CD pipeline
-print("CI/CD Pipeline Build SUCCESSFUL! 🚀")
+print("CI/CD Pipelining Build SUCCESSFUL! 🚀")
